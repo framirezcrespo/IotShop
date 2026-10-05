@@ -21,3 +21,4 @@ Half of the iot devices are "configured" (status=READY, sim card assigned and te
 
 nOSEQUE
   
+Nosecuanto
