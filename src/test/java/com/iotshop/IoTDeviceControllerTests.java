@@ -8,6 +8,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import com.iotshop.controller.IoTDeviceController;
 
+//Comentario
+
 @SpringBootTest
 class IoTDeviceControllerTests {
 
