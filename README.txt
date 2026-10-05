@@ -19,4 +19,5 @@ The database used is H2.
 When started, the script data.sql is run and 1000 record of iot devices and another 1000 of sim cards are inserted.
 Half of the iot devices are "configured" (status=READY, sim card assigned and temperature between 25 and 85ºC)
 
+nOSEQUE
   
